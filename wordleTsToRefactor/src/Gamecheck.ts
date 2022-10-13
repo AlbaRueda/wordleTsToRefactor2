@@ -1,0 +1,4 @@
+
+interface gamecheck {
+    pressed():void;
+}
